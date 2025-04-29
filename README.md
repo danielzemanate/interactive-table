@@ -12,8 +12,8 @@ Este proyecto está construido con React 19.0.10 y Vite 6.3.1.
 1. Clona el repositorio:
 
    ```bash
-   git clone <url-del-repositorio>
-   cd <nombre-del-proyecto>
+   git clone <https://github.com/danielzemanate/interactive-table>
+   cd <interactive-table>
    ```
 
 2. Instala las dependencias:
